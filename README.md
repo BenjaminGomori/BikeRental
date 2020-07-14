@@ -1,4 +1,4 @@
-A console based application. 
+A Python console based application. 
 User can:
 View shops' data and inventory. 
 Create multiple customers.
