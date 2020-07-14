@@ -1,14 +1,6 @@
 
 #################################################################################
-# Name:       Benjamin Gomori
-# Assignment: Bob's Bike Rental System 
-# Abstract:   Project 2
-# Due Date:   11/25/2019
-
- #Note:  For the family discount I give for up to 5 bickes for a rent transaction.
- #       If customer rents 10 bikes for example, than 5 will get 30 % off,
- #       the other five are full price. 
-            
+# Name:       Benjamin Gomori             
 #################################################################################
 
 import ShopClass as Shp
